@@ -35,6 +35,12 @@ A real-time virtual instrument based on the Karplus–Strong algorithm, develope
 
 **Key areas:** C++, audio programming, physical modelling, VST development
 
+### [Exoplanet Music Box](https://github.com/ShiyangWang929/exoplanet-data-sonification)
+
+An interactive generative music system developed in Max/MSP, translating exoplanet data into musical parameters and real-time sound structures.
+
+**Key areas:** Max/MSP, data sonification, generative music, interactive audio
+
 ### [Raspberry Pi Interactive Synthesizer](https://github.com/ShiyangWang929/raspberry-pi-interactive-synth)
 
 A hardware-controlled Python synthesizer using a Raspberry Pi, an MCP23S17 I/O expander, and seven physical pushbuttons.
